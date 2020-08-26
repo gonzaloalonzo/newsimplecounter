@@ -1,0 +1,13 @@
+.container{
+  width: 200px;
+  height: 50px;
+}
+.container > div{
+  background-color: blue;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  align-self: center;
+  padding: 20px;
+  border: 2px solid black;
+}
